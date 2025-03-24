@@ -6,7 +6,7 @@ My name is Lola and I am currently working on building my foundational skills in
   Cybersecurity 
 </li>
 <li>
-  Python 
+  Python 🐍
 </li>
 <li>
 Data Visualization (Power BI) 📊
