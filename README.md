@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Lola and I am currently working on building my foundational skills in web development: HTML, CSS, and JavaScript. I have previous experience in 
+Cybersecurity 
+Python 
+Excel
+Data Visualization (Power BI)
+Project Management
+Foundational Skills in AI Applications
+
 <!--
 **GoldenSphinx/GoldenSphinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
