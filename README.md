@@ -3,7 +3,7 @@
 My name is Lola and I am currently working on building my foundational skills in web development: HTML, CSS, and JavaScript. I have previous experience in: 
 <ul>
 <li>
-  Cybersecurity 
+  Cybersecurity (CompTIA Security+ certified)
 </li>
 <li>
   Python 🐍
@@ -15,7 +15,7 @@ Data Visualization (Power BI) 📊
   Project Management 🗂️
 </li>
 <li>
-  Foundational Skills in AI Applications
+  AI Applications
 </li>
 </ul>
 
